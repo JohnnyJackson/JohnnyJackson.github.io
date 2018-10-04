@@ -1,2 +1,2 @@
-# JohnnyJackson.github.io
-Johnny Jackson's web development blog
+# johnnyjackson.github.io
+Johnny Jackson's Web Development Blog
